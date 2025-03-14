@@ -9,7 +9,7 @@
 <h2 align="center">Hola! 🫡 soy Simón Jiménez Tamayo. Ingeniero de Software 🧑‍💻</h2>
 
 ###
-- 🔭 Actualmente trabajo laboralmente en el Hospital General de Medellín como Ing. de Software. Personalmente en mi propia página de resultados de fútbol: https://futseek.com 
+- 🔭 Actualmente trabajo...
 - 🌱 Actualmente aprendo y profundizo acerca de bases de datos, docker y cloud
 - 👯 Busco colaborar en proyectos que requieran mis habilidades para hacer páginas webs atractivas, interactivas y solidas
 - 💬 Preguntame acerca del diseño de una página! Soy muy creativo
